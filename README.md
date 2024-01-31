@@ -1,2 +1,1 @@
-Etch-a-Sketch 
-Front End Development practice with HTML/CSS and Javascript
+This is an Etch-a-Sketch project. This is a practice project using HTML/CSS and Javascript. 
